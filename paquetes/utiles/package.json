@@ -1,0 +1,17 @@
+{
+  "name": "utiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DannyMx29 <bran.dan.her.gar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "moment": "^2.29.4",
+    "sharp": "^0.31.2"
+  }
+}
